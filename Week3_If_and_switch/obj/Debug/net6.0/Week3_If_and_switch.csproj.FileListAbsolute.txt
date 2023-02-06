@@ -1,0 +1,15 @@
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Week3_If_and_switch\bin\Debug\net6.0\Week3_If_and_switch.exe
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Week3_If_and_switch\bin\Debug\net6.0\Week3_If_and_switch.deps.json
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Week3_If_and_switch\bin\Debug\net6.0\Week3_If_and_switch.runtimeconfig.json
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Week3_If_and_switch\bin\Debug\net6.0\Week3_If_and_switch.dll
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Week3_If_and_switch\bin\Debug\net6.0\Week3_If_and_switch.pdb
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Week3_If_and_switch\obj\Debug\net6.0\Week3_If_and_switch.csproj.AssemblyReference.cache
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Week3_If_and_switch\obj\Debug\net6.0\Week3_If_and_switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Week3_If_and_switch\obj\Debug\net6.0\Week3_If_and_switch.AssemblyInfoInputs.cache
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Week3_If_and_switch\obj\Debug\net6.0\Week3_If_and_switch.AssemblyInfo.cs
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Week3_If_and_switch\obj\Debug\net6.0\Week3_If_and_switch.csproj.CoreCompileInputs.cache
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Week3_If_and_switch\obj\Debug\net6.0\Week3_If_and_switch.dll
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Week3_If_and_switch\obj\Debug\net6.0\refint\Week3_If_and_switch.dll
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Week3_If_and_switch\obj\Debug\net6.0\Week3_If_and_switch.pdb
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Week3_If_and_switch\obj\Debug\net6.0\Week3_If_and_switch.genruntimeconfig.cache
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Week3_If_and_switch\obj\Debug\net6.0\ref\Week3_If_and_switch.dll

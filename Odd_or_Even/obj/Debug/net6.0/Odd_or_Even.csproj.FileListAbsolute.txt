@@ -1,0 +1,15 @@
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Odd_or_Even\bin\Debug\net6.0\Odd_or_Even.exe
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Odd_or_Even\bin\Debug\net6.0\Odd_or_Even.deps.json
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Odd_or_Even\bin\Debug\net6.0\Odd_or_Even.runtimeconfig.json
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Odd_or_Even\bin\Debug\net6.0\Odd_or_Even.dll
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Odd_or_Even\bin\Debug\net6.0\Odd_or_Even.pdb
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Odd_or_Even\obj\Debug\net6.0\Odd_or_Even.csproj.AssemblyReference.cache
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Odd_or_Even\obj\Debug\net6.0\Odd_or_Even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Odd_or_Even\obj\Debug\net6.0\Odd_or_Even.AssemblyInfoInputs.cache
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Odd_or_Even\obj\Debug\net6.0\Odd_or_Even.AssemblyInfo.cs
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Odd_or_Even\obj\Debug\net6.0\Odd_or_Even.csproj.CoreCompileInputs.cache
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Odd_or_Even\obj\Debug\net6.0\Odd_or_Even.dll
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Odd_or_Even\obj\Debug\net6.0\refint\Odd_or_Even.dll
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Odd_or_Even\obj\Debug\net6.0\Odd_or_Even.pdb
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Odd_or_Even\obj\Debug\net6.0\Odd_or_Even.genruntimeconfig.cache
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Odd_or_Even\obj\Debug\net6.0\ref\Odd_or_Even.dll

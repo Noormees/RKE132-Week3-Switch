@@ -1,0 +1,15 @@
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Switch_Day_of_the_Week\bin\Debug\net6.0\Switch_Day_of_the_Week.exe
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Switch_Day_of_the_Week\bin\Debug\net6.0\Switch_Day_of_the_Week.deps.json
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Switch_Day_of_the_Week\bin\Debug\net6.0\Switch_Day_of_the_Week.runtimeconfig.json
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Switch_Day_of_the_Week\bin\Debug\net6.0\Switch_Day_of_the_Week.dll
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Switch_Day_of_the_Week\bin\Debug\net6.0\Switch_Day_of_the_Week.pdb
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Switch_Day_of_the_Week\obj\Debug\net6.0\Switch_Day_of_the_Week.csproj.AssemblyReference.cache
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Switch_Day_of_the_Week\obj\Debug\net6.0\Switch_Day_of_the_Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Switch_Day_of_the_Week\obj\Debug\net6.0\Switch_Day_of_the_Week.AssemblyInfoInputs.cache
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Switch_Day_of_the_Week\obj\Debug\net6.0\Switch_Day_of_the_Week.AssemblyInfo.cs
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Switch_Day_of_the_Week\obj\Debug\net6.0\Switch_Day_of_the_Week.csproj.CoreCompileInputs.cache
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Switch_Day_of_the_Week\obj\Debug\net6.0\Switch_Day_of_the_Week.dll
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Switch_Day_of_the_Week\obj\Debug\net6.0\refint\Switch_Day_of_the_Week.dll
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Switch_Day_of_the_Week\obj\Debug\net6.0\Switch_Day_of_the_Week.pdb
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Switch_Day_of_the_Week\obj\Debug\net6.0\Switch_Day_of_the_Week.genruntimeconfig.cache
+C:\Users\Noormees\source\repos\Week3_If_and_switch\Switch_Day_of_the_Week\obj\Debug\net6.0\ref\Switch_Day_of_the_Week.dll
